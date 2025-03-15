@@ -1,3 +1,6 @@
+## Added text
+Added some text to make the 1st commit
+
 ## Git Hidden Folder
 
 There is a hidden folder called `.git` which tells you that our project is a git repo.
